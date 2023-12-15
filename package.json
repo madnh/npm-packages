@@ -1,0 +1,22 @@
+{
+  "name": "@madnh/npm-packages",
+  "version": "0.0.1",
+  "description": "Get info about NPM installed packages",
+  "bin": {
+    "npm-packages": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madnh/npm-packages.git"
+  },
+  "keywords": [
+    "npm",
+    "packages"
+  ],
+  "author": "MaDnh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madnh/npm-packages/issues"
+  },
+  "homepage": "https://github.com/madnh/npm-packages#readme"
+}
